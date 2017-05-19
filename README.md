@@ -1,7 +1,7 @@
 # math
 Study Algebra 2 with Python, written with Jupyter Notebook.
 
-### Goals
+### Targets
 - To provide a visual way to learn Algebra
 - Learning Algebra and playing with Python at the same time
 - Understand Algebra in 24 hours
