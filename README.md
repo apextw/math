@@ -8,9 +8,13 @@ Study Algebra 2 with Python, written with Jupyter Notebook.
 
 ### Topics
 - Quadratic Functions
+- Polynomials
 - Complex Number, i
 - Euler Number, e
 - Expoential and Logarithm
+- Statistics
+- Sequences and Series
+- Trigonometry
 
 
 ### Tools
