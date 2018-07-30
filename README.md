@@ -1,11 +1,7 @@
-# math
+# Learn Math 
+##### In hacker's way
 
-### Targets
-- To provide a visual way to learn
-- Learning and playing with Python at the same time
-
-
-### Tools
+#### Environment
 
 Anaconda:
 https://docs.continuum.io/anaconda/install
@@ -13,11 +9,29 @@ https://docs.continuum.io/anaconda/install
 Python:
 https://www.python.org/downloads/
 
+#### Textbook
 
-### Playing Algebra 2 with Python
-Study Algebra 2 with Python, written with Jupyter Notebook. Reference to Holt McDougal Larson Algebra 2: https://www.amazon.com/Holt-McDougal-Larson-Algebra-Students/dp/0618595554
+[Algebra 1]()
 
-#### Topics
+[Algebra 2,Holt McDougal Larson](https://www.amazon.com/Holt-McDougal-Larson-Algebra-Students/dp/0618595554)
+
+[IB Mathematics Higher Level Course Book: Oxford IB Diploma Program](https://www.amazon.com/Mathematics-Higher-Level-Course-Book/dp/0198390122/ref=sr_1_fkmr0_2?ie=UTF8&qid=1532955603&sr=8-2-fkmr0&keywords=IB+Mathematics+Higher+Level+Course+Book%3A+Oxford+IB+Diploma+Pro)
+
+
+#### Algebra 1
+- Expression, Equation, and Function
+- Numbers
+- Solving linear equations
+- Graphing linear equations
+- System of equalities and inequalities
+- Vector and Matrix
+- Exponents and Exponential Functions
+- Polynomials and Factoring
+- Quadratic Equaltions and Functions
+- Data Analysis
+- Probability
+
+#### Algebra 2
 - Quadratic Functions
 - Polynomials
 - Complex Number, i
@@ -26,3 +40,6 @@ Study Algebra 2 with Python, written with Jupyter Notebook. Reference to Holt Mc
 - Statistics
 - Sequences and Series
 - Trigonometry
+
+#### IB Math HL
+
